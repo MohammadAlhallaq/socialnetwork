@@ -4,4 +4,4 @@
 
 
 
-just a small real-time friend/unfriend feature, also with a real-time notification system.
+just a small real-time friend/unfriend feature, also with a real-time notification system using Vuejs integrated with laravel.
